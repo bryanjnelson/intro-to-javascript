@@ -5,7 +5,7 @@
 
 1. We will use the JavaScript Runtime Environment called NodeJs to execute our code.  It is already installed in your Codespace, so all you have to do to run it is type `node` and then the full folder/file path after it.  This is done in the console.
 
-2. For example, if you are working on the "array" homework assignment you would type `node homework/data-types/variables-and-data-types.homework.js` and press enter. This will run (or execute) the "variables-and-data-types.homework.js" file.  You have to include the folder in the command so Node knows where to find it.
+2. For example, if you are working on the "variables and datatypes" homework assignment you would type `node homework/data-types/variables-and-data-types.homework.js` and press enter. This will run (or execute) the "variables-and-data-types.homework.js" file.  You have to include the folder in the command so Node knows where to find it.
 
 3. _Shortcut:_ If you want to run a previous command in the console again, just press the up arrow.  It will display the last command you ran.  Press the up arrow again and the command you ran two times ago will appear, etc.
 
